@@ -1,9 +1,9 @@
 {
     "users": [
         {
-            "Username": "safwan",
-            "Email": "safwan@gmail.com",
-            "Password": "1234"
+            "username": "safwan",
+            "email": "safwan@gmail.com",
+            "password": "1234"
         }
     ],
     "recipes": [
